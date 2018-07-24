@@ -1,0 +1,3 @@
+在项目目录中打开命令行窗口
+输入命令：scrapy crawl bdwmSpider
+整个代码的核心部分是bdwmSpider文件
